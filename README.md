@@ -8,6 +8,8 @@ This project aims to build a book recommendation system using a dataset of books
 
 The dataset comprises 10,000 of the most recommended books of all time, collected in an attempt to identify more books that readers may like based on their past reading preferences. It was also collected to aid in cross-content analysis and recommendations with movies and shows datasets.
 
+### Data: https://www.kaggle.com/datasets/ishikajohari/best-books-10k-multi-genre-data
+
 ### Features
 
 - **Serial No.**: A unique identifier for each book.
